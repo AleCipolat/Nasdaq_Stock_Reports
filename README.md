@@ -30,3 +30,15 @@ https://data.nasdaq.com/tools/python
 
 openpyxl
 https://pypi.org/project/openpyxl/
+
+
+Api Key
+------------
+Colocar dentro del archivo credentials.txt el api key de nasdaqdatalink
+
+
+Ejecución
+----------
+```
+py stock_finder.py
+```
