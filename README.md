@@ -15,5 +15,7 @@ $$/   $$/  $$$$$$$/ $$$$$$$/   $$$$$$$/  $$$$$$$/  $$$$$$$ |
                                                         
 ```
 
-# Herramienta para exportar información sobre una acción a un archivo de excel,
+Herramienta para exportar información sobre una acción a un archivo de excel,
 utilizando como fuente de datos Nasdaq
+
+By Alejandro Cipolat
